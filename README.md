@@ -51,27 +51,35 @@ CheapestElectricCars-EVDatabase.csv
 EV Datasets
       │
       ▼
+      
 Data Cleaning & Preprocessing
       │
       ▼
+      
 MySQL Database
       │
       ▼
+      
 SQL Analysis
       │
       ▼
+      
 Tableau Desktop
       │
       ▼
+      
 Interactive Dashboard & Story
       │
       ▼
+      
 Tableau Public
       │
       ▼
+      
 Flask Web Application
       │
       ▼
+      
 End User
 
 📊 Tableau Visualizations
@@ -125,21 +133,37 @@ Interactive User Experience
 
 Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
 │
+
 ├── 1.Ideation_Phase/
+
 ├── 2.Requirement_Analysis/
+
 ├── 3.Project_Design_Phase/
+
 ├── 4.Project_Planning_Phase/
+
 ├── 5.Project_Development_Phase/
+
 │   ├── datasets/
+
 │   ├── SQL_Queries/
+
 │   ├── Dashboard_Report.pdf
+
 │   └── Story_Report.pdf
+
 ├── 6.Performance_Testing/
+
 ├── 7.Project_Documentation/
+
 ├── templates/
+
 │   └── index.html
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
 
 🔗 Project Links
