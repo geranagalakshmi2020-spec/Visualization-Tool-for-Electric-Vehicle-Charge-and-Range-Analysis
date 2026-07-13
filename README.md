@@ -1,10 +1,14 @@
 # Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis
+
 ⚡ Visualization Tool for Electric Vehicle Charge and Range Analysis
+
 📌 Project Overview
+
 The Visualization Tool for Electric Vehicle Charge and Range Analysis is an interactive data visualization project developed to analyze electric vehicle (EV) market trends, vehicle specifications, charging infrastructure, battery range, pricing, efficiency, body styles, and powertrain distribution.
 The project integrates multiple electric vehicle datasets using MySQL for data management and SQL for data analysis. Interactive dashboards and stories are created using Tableau Desktop, published through Tableau Public, and embedded into a Flask web application for an intuitive and user-friendly experience.
 
 🎯 Project Objectives
+
 The main objectives of this project are:
 Analyze electric vehicle charging infrastructure.
 Compare EV brands and vehicle models.
@@ -13,6 +17,7 @@ Analyze driving range and vehicle performance.
 Compare energy efficiency across brands.
 Study body style and powertrain distribution.
 Provide interactive dashboards for data-driven decision-making.
+
 🛠️ Technologies Used
 
 Database
@@ -42,6 +47,7 @@ Electric Vehicle Charging Station List.csv
 CheapestElectricCars-EVDatabase.csv
 
 ⚙️ Project Workflow
+
 EV Datasets
       │
       ▼
@@ -67,7 +73,9 @@ Flask Web Application
       │
       ▼
 End User
+
 📊 Tableau Visualizations
+
 The project includes the following visualizations:
 Charging Stations by Region and Type
 EV Charging Station Map
@@ -112,7 +120,9 @@ Embedded Tableau Dashboard
 Embedded Tableau Story
 Easy Navigation
 Interactive User Experience
+
 📁 Project Structure
+
 Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
 │
 ├── 1.Ideation_Phase/
@@ -131,7 +141,9 @@ Visualization-Tool-for-Electric-Vehicle-Charge-and-Range-Analysis/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 🔗 Project Links
+
 📊 Tableau Dashboard
 https://public.tableau.com/views/ElectricCarsAnalyticsDashboard_17831451243460/Dashboard1
 
@@ -159,6 +171,7 @@ Global EV market analytics
 Team Members
 G . Naga Lakshmi
 P.  Jyothi
+
 Department: Electronics and Communication Engineering (ECE)
 
 College: Vignan's Lara Institute of Technology and Science
